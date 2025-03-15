@@ -35,10 +35,11 @@
 - Add interactive dashboards using Power BI
 - Implement scenario analysis for sales forecasting
 - Automate report generation with Excel macros
+** Files**
  [Product2021.pdf](https://github.com/user-attachments/files/19262280/Product2021.pdf)
 [top countires.pdf](https://github.com/user-attachments/files/19262278/top.countires.pdf)
 [top &bottom products.pdf](https://github.com/user-attachments/files/19262277/top.bottom.products.pdf)
 [division.pdf](https://github.com/user-attachments/files/19262275/division.pdf)
 
 
--# Excel-Sales-Analytics #DataAnalysis #Excel #SalesAnalytics
+# Excel-Sales-Analytics #DataAnalysis #Excel #SalesAnalytics
